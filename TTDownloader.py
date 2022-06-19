@@ -41,6 +41,4 @@ class TT:
 
 if __name__ == "__main__":
     tt = TT("")
-    tt.ttvid_downloader()
-
-            
+    tt.ttvid_downloader("")
